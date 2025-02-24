@@ -1,4 +1,4 @@
-# CashFlow Agent: Building a Hyperliquid Spot Trading Agent 🤖
+# CashFlow: Building a Hyperliquid Spot Trading Agent 🤖
 
 Welcome to the CashFlow Agent course! Learn to build a professional-grade cryptocurrency trading agent for the Hyperliquid DEX using modern Python tools and best practices.
 
